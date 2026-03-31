@@ -28,4 +28,5 @@ int main(){
     average = Average(engScore, mathScore);
     cout << "Graduation status = " << GraduationStatus(average) << " ,with average score = " << average << endl;
 
+    return 0;
 }
