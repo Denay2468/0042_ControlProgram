@@ -20,5 +20,7 @@ string GraduationStatus(float r){
 }
 
 int main(){
+    float engScore, mathScore, average;
+    string status;
 
 }
