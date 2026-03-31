@@ -24,4 +24,8 @@ int main(){
     cout << "Enter Math score = ";
     cin >> mathScore;
 
+    // Calculate average and display result
+    average = Average(engScore, mathScore);
+    cout << "Graduation status = " << GraduationStatus(average) << " ,with average score = " << average << endl;
+
 }
