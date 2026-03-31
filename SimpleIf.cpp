@@ -14,4 +14,6 @@ int main(){
 
     cout << "The given number = " << x;
 
+    return 0;
+
 }
