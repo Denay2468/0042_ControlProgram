@@ -23,4 +23,10 @@ int main(){
     float engScore, mathScore, average;
     string status;
 
+        // Input section
+    cout << "Enter English score = ";
+    cin >> engScore;
+    cout << "Enter Math score = ";
+    cin >> mathScore;
+
 }
