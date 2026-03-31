@@ -12,4 +12,6 @@ int main(){
         cout << "x value has been corrected to : " << x << endl;
     }
 
+    cout << "The given number = " << x;
+
 }
